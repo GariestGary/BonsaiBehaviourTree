@@ -1,0 +1,23 @@
+{
+  "name": "com.bonsai.behaviourtree",
+  "version": "1.0.0",
+  "displayName": "Bonsai Behaviour Tree",
+  "description": "Advanced behavior tree solution with a graphical editor",
+  "dependencies": {},
+  "keywords": [
+    "bonsai",
+    "bt",
+	"behaviour tree",
+	"behaviour",
+	"tree",
+    "helper"
+  ],
+  "author": {
+    "name": "luis-l",
+    "url": "https://github.com/luis-l"
+  },
+  "type": "tool",
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  }
+}
